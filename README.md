@@ -35,6 +35,7 @@ This project is a Python-based tool that combines AES encryption and LSB image s
 📂 Folder Structure
 
 .
+
 ├── stego_output/              # Folder for output image
 
 ├── notebook.ipynb             # Jupyter/Colab-compatible notebook

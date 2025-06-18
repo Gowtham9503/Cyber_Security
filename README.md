@@ -35,8 +35,10 @@ This project is a Python-based tool that combines AES encryption and LSB image s
 📂 Folder Structure
 
 .
-├── stego_output/              # Folder for output images
+├── stego_output/              # Folder for output image
+
 ├── notebook.ipynb             # Jupyter/Colab-compatible notebook
+
 ├── README.md                  # This documentation file
 
 
@@ -84,10 +86,13 @@ The program extracts the encrypted data and decrypts it using AES.
 📸 Example
 
 🔐 Enter the secret message: Hello
+
 🔑 Enter a 16-character encryption key: mysecretkey12345
+
 ✅ Secret message encrypted and hidden in: stego_output/encoded_20250618_101522.png
 
 🖼️ Output Image Displayed with Message Hidden
+
 📤 Decoded Secret Message: Hello
 
 
